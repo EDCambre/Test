@@ -8,3 +8,5 @@ chips<-"snacks"
 print(chips)
 bleu <-"dog"
 print(bleu)
+happy <- "sky"
+print(sky)
