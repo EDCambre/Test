@@ -4,3 +4,5 @@ love <- "Goodbye"
 print(love)
 fly <-"plane"
 print(fly)
+chips<-"snacks"
+print(chips)
