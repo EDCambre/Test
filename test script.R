@@ -8,5 +8,8 @@ chips<-"snacks"
 print(chips)
 bleu <-"dog"
 print(bleu)
-happy <- "sky!"
-print(sky)
+happyy <- "sky!!"
+print(happyy)
+library(usethis)
+install.packages("usethis")
+library(usethis)
